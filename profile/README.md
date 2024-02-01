@@ -4,7 +4,7 @@
 revivalOS is a Free Open Source Software (FOSS) based operating system based off of the Android Open Source Project. However currently, it is under development. If you would like to contribute - feel free! All help is appreciated, no matter the size. 🖤
 
 ### Checklist
-- [ ] Base AOSP 
+- [x] Base AOSP - manifest will pull AOSP
 - [ ] AOSP becomes bootable
 - [ ] Cosmetic changes to AOSP - i.e, simplification of UIs
 - [ ] Code changes - i.e, optimising code, removing any bloat, atempting to add the bootloop recovery screen
